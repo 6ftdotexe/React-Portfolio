@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "ItsNoted",
+    "image": "https://i.ibb.co/qkFZSvZ/notes-app.png",
+    "github": "https://github.com/6ftdotexe/Note-Taker",
+    "URL": "https://itsnoted.herokuapp.com/",
+    "completion": "100% Completed"
+  },
+  {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image": "https://i.ibb.co/vPZ5zKF/weather-app.png",
+    "github": "https://github.com/6ftdotexe/Five-Day-Forecast",
+    "URL": "https://6ftdotexe.github.io/Five-Day-Forecast/",
+    "completion": "100% Completed"
+  },
+  {
+    "id": 3,
+    "name": "WorkDay Scheduler",
+    "image": "https://i.ibb.co/q0xzrt5/workday-app.png",
+    "github": "https://github.com/6ftdotexe/Work-Day-Scheduler",
+    "URL": "https://sw2bae.github.io/hw05_WorkDayScheduler/",
+    "completion": "100% Completed"
+  },
+  {
+    "id": 4,
+    "name": "React Employee Directory",
+    "image": "https://i.ibb.co/vwY542T/Employee-Directory.png",
+    "github": "https://github.com/6ftdotexe/React-Employee-Directory",
+    "URL": "https://employeelook.herokuapp.com/",
+    "completion": "100% Completed"
+  },
+  {
+    "id": 5,
+    "name": "GetFitTrack",
+    "image": "https://i.ibb.co/vwY542T/Employee-Directory.png",
+    "github": "https://github.com/6ftdotexe/GetFitTrack",
+    "URL": "https://getfittrack.herokuapp.com/",
+    "completion": "100% Completed"
+  },
+  {
+    "id": 6,
+    "name": "Animated Portfolio",
+    "image": "https://i.ibb.co/cYspXsC/profile.png",
+    "github": "https://github.com/6ftdotexe/Responsive_Portfolio",
+    "URL": "https://6ftdotexe.github.io/Responsive_Portfolio/",
+    "completion": "100% Completed"
+  }
+]
